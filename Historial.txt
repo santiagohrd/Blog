@@ -1,0 +1,4 @@
+Esta es la practica de GIT
+
+Santiago Herrera, realizando el curso de GIT
+nos vamos a establecer una meta

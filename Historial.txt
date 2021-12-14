@@ -3,4 +3,6 @@ Esta es la practica de GIT
 Santiago Herrera, realizando el curso de GIT
 nos vamos a establecer una meta
 
-Primer ensayo Pass, vamos por ek buen camino a entender la herramienta
+Primer ensayo Pass, vamos por el buen camino a entender la herramienta
+
+Este es un paso grande 
